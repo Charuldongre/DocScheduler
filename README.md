@@ -1,4 +1,4 @@
-Docsheduler
+
 Docsheduler is a comprehensive web application built using ReactJS, designed to streamline the process of booking appointments with doctors specialized in various fields. This project leverages modern technologies to provide a seamless and efficient user experience. The main features include:
 
 Doctor Listings and Filtering: Users can browse through a list of doctors filtered based on their specializations. Each doctor profile includes essential information such as their name, degree, phone number, address, years of experience, and specialization.
