@@ -1,3 +1,6 @@
+Most Challenging Problem I Solved Recently
+
+One of the most challenging problems I solved recently was implementing a dynamic appointment booking UI using React + Vite, where users could select a date from today to the next seven days and choose a time slot between 10:00 AM and 8:00 PM in 30-minute intervals. The difficult part was generating these slots automatically, ensuring correct formatting (AM/PM), and handling edge cases like disabling past time slots for the current day. I also had to design logic that allowed users to select multiple appointments, but only if their date and time combinations were unique. Managing this with clean state handling was tricky, especially when preventing duplicates while keeping the component responsive. I solved this by using a structured state format and a simple comparison algorithm to check conflicts before adding a new appointment. This project strengthened my understanding of React state management and improved the way I approach problem-solving in frontend development.
 
 Docsheduler is a comprehensive web application built using ReactJS, designed to streamline the process of booking appointments with doctors specialized in various fields. This project leverages modern technologies to provide a seamless and efficient user experience. The main features include:
 
